@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="System.Windows.Forms.Form">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
